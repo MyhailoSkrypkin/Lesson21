@@ -8,5 +8,5 @@ function draw(event) {
 
     ctx.fillStyle = "#eeaaaa"
 
-    ctx.arc(posX, posY, 50, 0, 2 * Math.PI)
+    ctx.arc(posX, posY, 50, 0, 2 * Math.PI);
 }
